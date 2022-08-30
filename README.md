@@ -1,5 +1,5 @@
-#<--------------------------------------------->#
-**```
+#<----------- READ ME -------------->#
+```
 class Rubin(info):
     "https://github.com/Rubin1337"
     def __init__(self):
@@ -9,7 +9,6 @@ class Rubin(info):
       self.discord = "- alone.rubin#2495"
       self.knowledge = ["Python", "Html", "Css", "Qbasic", "Javascript"]
       self.location = "Internet"**
-```**
-        
-#<--------------------------------------------->#
+```
+#<----------- READ ME -------------->#
 
