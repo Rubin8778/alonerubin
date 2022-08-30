@@ -1,6 +1,6 @@
 #<--------------------------------------------->#
 ```
-class Rubin(info):
+**class Rubin(info):
     "https://github.com/Rubin1337"
     def __init__(self):
       self.name = "Rubin"
@@ -8,7 +8,8 @@ class Rubin(info):
       self.contact = "rubin1337@gmail.com"
       self.discord = "- alone.rubin#2495"
       self.knowledge = ["Python", "Html", "Css", "Qbasic", "Javascript"]
-      self.location = "Internet"
+      self.location = "Internet"**
+```
         
 #<--------------------------------------------->#
-```
+
