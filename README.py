@@ -9,3 +9,5 @@ class Rubin(info):
       self.discord = "- alone.rubin#2495"
       self.knowledge = ["Python", "Html", "Css", "Qbasic", "Javascript"]
       self.location = "Internet"
+        
+#<--------------------------------------------->#
