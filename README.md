@@ -1,5 +1,5 @@
 #<--------------------------------------------->#
-
+```
 class Rubin(info):
     "https://github.com/Rubin1337"
     def __init__(self):
@@ -11,3 +11,4 @@ class Rubin(info):
       self.location = "Internet"
         
 #<--------------------------------------------->#
+```
