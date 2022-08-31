@@ -1,4 +1,4 @@
-#<----------- READ ME -------------->#
+
 ```
 class Rubin(info):
     "https://github.com/Rubin1337"
@@ -10,5 +10,3 @@ class Rubin(info):
       self.knowledge = ["Python", "Html", "Css", "Qbasic", "Javascript"]
       self.location = "Internet"**
 ```
-#<----------- READ ME -------------->#
-
